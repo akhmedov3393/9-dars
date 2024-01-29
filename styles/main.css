@@ -1,0 +1,522 @@
+* {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.allPageWidth {
+  width: 90rem;
+  background: #f9f9f9;
+  padding: 4.12rem 6rem;
+}
+.allPageWidth .container {
+  width: 90%;
+}
+
+.allPageWidth .container header {
+  width: 100%;
+  height: 3rem;
+  margin-bottom: 7.81rem;
+}
+
+.allPageWidth .container header nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 36.31rem;
+}
+
+.allPageWidth .container header nav .logo {
+  width: 3.31rem;
+  height: 2.06rem;
+}
+
+.allPageWidth .container header nav .logo p {
+  color: #000;
+  font-family: Poppins;
+  font-size: 1.375rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.allPageWidth .container header nav ul {
+  display: flex;
+  align-items: center;
+  gap: 3.56rem;
+  margin-right: 6.12rem;
+}
+.allPageWidth .container header nav ul li {
+  color: #000;
+  font-family: Poppins;
+  font-size: 1.375rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.allPageWidth .container header nav ul li:hover {
+  font-weight: 700;
+}
+
+.allPageWidth .container section {
+  height: 100%;
+  height: 33.56rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.allPageWidth .container section .storywidth {
+  width: 30.18rem;
+  margin-top: 2.44rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2.44rem;
+}
+
+.allPageWidth .container section .storywidth h1 {
+  color: #000;
+  font-family: Poppins;
+  font-size: 3.625rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 1rem;
+}
+
+.allPageWidth .container section .storywidth .bord {
+  width: 11.46875rem;
+  height: 1px;
+  background-color: #000;
+}
+
+.allPageWidth .container section .storywidth p {
+  color: #000;
+  font-family: Poppins;
+  font-size: 1.375rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 30.875rem;
+  height: 6.4375rem;
+}
+
+.allPageWidth .container section .storywidth button {
+  width: 12.0625rem;
+  height: 4.875rem;
+  border-radius: 0.625rem;
+  background: #60c7bf;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+  border: none;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 1.625rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-top: 1.06rem;
+}
+
+.allPageWidth .container section .pic {
+  width: 37.5625rem;
+  height: 33.4375rem;
+  background: #b5b5b5;
+}
+
+.allPageWidth .container .page2 {
+  height: 9rem;
+  display: flex;
+  align-items: center;
+  margin-top: 10.87rem;
+}
+.allPageWidth .container .page2 .project {
+  width: 22.125rem;
+  height: 8.75rem;
+  background: #2a2a2a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-right: 4.81rem;
+}
+
+.allPageWidth .container .page2 .project .sum {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 2.125rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.allPageWidth .container .page2 .project .finish {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.allPageWidth .container .page2 .reviewed {
+  width: 33.1875rem;
+  height: 8.75rem;
+  background: #2a2a2a;
+  margin-right: 8.06rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-left: 3.12rem;
+}
+
+.allPageWidth .container .page2 .reviewed .sum {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 2.125rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.allPageWidth .container .page2 .reviewed .finish {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.allPageWidth .container .page2 .avialable {
+  width: 9.8125rem;
+  height: 8.75rem;
+  flex-shrink: 0;
+  background: #60c7bf;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.allPageWidth .container .page2 .avialable p {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.allPageWidth .container .page-three {
+  width: 100%;
+  height: 29rem;
+  display: flex;
+  gap: 7.56rem;
+  padding-top: 13rem;
+  /* padding-bottom: 13rem; */
+}
+
+.allPageWidth .container .page-three .our-pic {
+  width: 33rem;
+}
+
+.allPageWidth .container .page-three .our-pic .our-pic-one {
+  width: 26.75rem;
+  height: 11.625rem;
+  background: #b5b5b5;
+  position: relative;
+}
+
+.allPageWidth .container .page-three .our-pic .our-pic-one .pos-one {
+  width: 16.6875rem;
+  height: 2.5rem;
+  background: rgba(96, 199, 191, 0.5);
+  position: absolute;
+  left: 16.62rem;
+  top: 3.69rem;
+}
+
+.allPageWidth .container .page-three .our-pic .our-pic-two {
+  width: 26.75rem;
+  height: 11.625rem;
+  background: #b5b5b5;
+  position: relative;
+  margin-top: 3.19rem;
+  margin-left: 5rem;
+}
+
+.allPageWidth .container .page-three .our-pic .our-pic-two .pos-two {
+  width: 16.6875rem;
+  height: 4.0625rem;
+  background: rgba(96, 199, 191, 0.5);
+  position: absolute;
+  right: 14.5rem;
+  top: 9.06rem;
+}
+.allPageWidth .container .page-three .texts {
+  height: 29rem;
+}
+.allPageWidth .container .page-three .texts .our-services {
+  width: 33.5rem;
+  height: 10.85rem;
+  padding-bottom: 2.56rem;
+}
+.allPageWidth .container .page-three .texts .our-services h2 {
+  color: #000;
+  font-family: Poppins;
+  font-size: 3.625rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.allPageWidth .container .page-three .texts .text {
+  width: 30.5rem;
+  height: 9.5625rem;
+}
+.allPageWidth .container .page-three .texts .text p {
+  color: #000;
+  font-family: Poppins;
+  font-size: 1.375rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.allPageWidth .container .page-four {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 20rem;
+}
+
+.allPageWidth .container .page-four .customer {
+  width: 38.5rem;
+  color: #000;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 4.25rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-bottom: 5.63rem;
+}
+
+.allPageWidth .container .page-four .team {
+  width: 100%;
+  height: 50rem;
+  display: flex;
+  flex-direction: column;
+  gap: 4.38rem;
+}
+
+.allPageWidth .container .page-four .team .anderson {
+  width: 78rem;
+  height: 27.8125rem;
+  border-radius: 0.625rem;
+  background: #f6f6f6;
+  display: flex;
+  align-items: center;
+  padding-left: 2.25rem;
+}
+.allPageWidth .container .page-four .team .anderson .pic {
+  width: 21.8125rem;
+  height: 21.8125rem;
+  border-radius: 0.625rem;
+  background: #b5b5b5;
+  position: relative;
+}
+.allPageWidth .container .page-four .team .anderson .pic .pos {
+  width: 16.6875rem;
+  height: 2rem;
+  background: rgba(96, 199, 191, 0.5);
+  position: absolute;
+  top: 20.81rem;
+  left: 6.69rem;
+}
+
+.allPageWidth .container .page-four .team .anderson .texts {
+  padding-left: 4.69rem;
+}
+.allPageWidth .container .page-four .team .anderson .texts strong {
+  color: #000;
+  font-family: Poppins;
+  font-size: 3rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.allPageWidth .container .page-four .team .anderson .texts p {
+  width: 39.875rem;
+  height: 9.5625rem;
+  color: #000;
+  font-family: Poppins;
+  font-size: 1.75rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.allPageWidth .container .page-five {
+  /* width: 100%; */
+  /* height: 14rem; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 43rem;
+}
+
+.allPageWidth .container .page-five strong {
+  width: 18.75rem;
+  color: #000;
+  font-family: Poppins;
+  font-size: 4.25rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.allPageWidth .container .page-five .text {
+  width: 30.5625rem;
+  height: 10.625rem;
+  /* padding-left: 7.5rem;
+  padding-right: 7rem; */
+}
+.allPageWidth .container .page-five p {
+  color: #000;
+  font-family: Poppins;
+  font-size: 1.75rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.allPageWidth .container .page-five button {
+  width: 12.0625rem;
+  height: 4.875rem;
+  border-radius: 0.625rem;
+  background: #60c7bf;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+  border: none;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 1.625rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.allPageWidth .container .page-six {
+  height: 35rem;
+  width: 100%;
+  display: flex;
+  gap: 4rem;
+}
+
+.allPageWidth .container .page-six .list-iteam {
+  display: flex;
+  flex-direction: column;
+  gap: 1.62rem;
+  width: 21rem;
+}
+
+.allPageWidth .container .page-six .list-iteam .pic {
+  width: 20.25rem;
+  height: 18.8125rem;
+  border-radius: 0.625rem;
+  background: #b5b5b5;
+}
+
+.allPageWidth .container .page-six .list-iteam .october {
+  width: 20.25rem;
+  height: 2.8125rem;
+  color: #000;
+  font-family: Poppins;
+  font-size: 1.75rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.allPageWidth .container .page-six .list-iteam strong {
+  color: #000;
+  font-family: Poppins;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  width: 21.25rem;
+  height: 6rem;
+  flex-shrink: 0;
+}
+
+.allPageWidth .container .page-six .list-iteam .read {
+  width: 12.6875rem;
+  height: 2.8125rem;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Poppins;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+footer {
+  width: 90rem;
+  background: #2b2b2b;
+  padding: 5rem 6rem;
+}
+footer .navbar {
+
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 3.97rem;
+}
+footer .navbar p {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 3rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+footer .navbar .ready {
+  display: flex;
+  align-items: center;
+  gap: 1.31rem;
+}
+
+footer .navbar .ready p {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 1.75rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+footer .navbar .ready button {
+  width: 14.75rem;
+  height: 4.875rem;
+  flex-shrink: 0;
+  border-radius: 0.625rem;
+  background: #60c7bf;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+  color: #fff;
+  font-family: Poppins;
+  font-size: 1.625rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  border: none;
+}
+footer .bords {
+  width: 77.6875rem;
+  height: 2px;
+  background-color: #F5F5F5;
+  margin-bottom: 3.72rem;
+}
+
+
